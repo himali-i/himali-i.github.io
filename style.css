@@ -69,7 +69,7 @@ body {
 
 /* Left column */
 .info-table th {
-  background-color: #b9c9dc;
+  background-color: #c9ddf3;
   color: #191970;
   padding: 20px;
   font-size: 20px;
@@ -81,7 +81,7 @@ body {
 
 /* Right column */
 .info-table td {
-  background-color: #c9ddf4;
+  background-color: #deebf8;
   padding: 20px;
   font-size: 18px;
   text-align: center;
