@@ -69,12 +69,14 @@ body {
 
 /* Left column */
 .info-table th {
-  background-color: #c9ddf4;
+  background-color: #b9c9dc;
   color: #191970;
   padding: 20px;
   font-size: 20px;
   width: 30%;
   text-align: center;
+
+  border-right: 2px solid white; 
 }
 
 /* Right column */
