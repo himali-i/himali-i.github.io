@@ -1,9 +1,9 @@
 body {
   font-family: Calibri;
-  background-color: #ADD8E6; /* light blue background */
+  background-color: #ADD8E6; 
 }
 
-/* Navigation menu (Home | About Me | Ethics) */
+/* Navigation menu  */
 a {
   margin-right: 10px;
   text-decoration: none;
@@ -11,7 +11,7 @@ a {
   font-weight: bold;
 }
 
-/* Optional: make headings match nicely */
+/* headings */
 h1 {
   color: #191970;
 }
