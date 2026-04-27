@@ -1,19 +1,17 @@
 body {
-  font-family: Arial;
-  background-color: #f0f4f8;
+  font-family: Calibri;
+  background-color: #ADD8E6; /* light blue background */
 }
 
-h1 {
-  color: #2a5d84;
-}
-
+/* Navigation menu (Home | About Me | Ethics) */
 a {
   margin-right: 10px;
   text-decoration: none;
-  color: blue;
+  color: #191970; /* dark blue */
+  font-weight: bold;
 }
 
-table {
-  margin-top: 20px;
-  background-color: white;
+/* Optional: make headings match nicely */
+h1 {
+  color: #191970;
 }
