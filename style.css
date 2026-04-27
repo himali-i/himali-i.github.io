@@ -99,3 +99,15 @@ body {
 .info-table tr + tr td {
   border-top: 1px solid white;
 }
+
+.about-top {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.about-bottom {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
