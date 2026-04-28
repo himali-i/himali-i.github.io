@@ -150,10 +150,22 @@ body {
 }
 
 .ethics-text {
+  font-family: Calibri;
   text-align: center;
-  font-size: 18px;
+  font-size: 12px;
   margin-top: 15px;
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.guidelines-list {
+  font-size: 12px;
+  font-family: Calibri;
+  width: 60%;
+  margin: 0 auto;     
+  text-align: left;    
+  font-size: 18px;
+  margin-top: 15px;
+  line-height: 1.8;
 }
