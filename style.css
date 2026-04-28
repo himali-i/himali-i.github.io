@@ -150,6 +150,7 @@ body {
 }
 
 .ethics-text {
+  line-height: 1.5;
   font-family: Calibri;
   text-align: center;
   font-size: 12px;
@@ -160,6 +161,7 @@ body {
 }
 
 .guidelines-list {
+  line-height: 1.5;
   font-size: 12px;
   font-family: Calibri;
   width: 60%;
